@@ -263,11 +263,11 @@ file << duration.count() << "," << n << endl;
 
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/bi8H9H3oiacGY.png" alt="" height="312"/>
+<img src="graphics/bi8H9H3oiacGY.png" alt="" height="312"/>
 
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/FlG0RM4LUfDPN.png" alt="" height="315"/>
+<img src="graphics/FlG0RM4LUfDPN.png" alt="" height="315"/>
 
 
 
@@ -285,7 +285,7 @@ file << duration.count() << "," << n << endl;
 В этом графе (n(n-1)/10) рёбер. По результату более миллиона итераций (output2.txt) был построен следующий график:
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/1XN3rS0AobNKk.png" alt="" height="312"/>
+<img src="graphics/1XN3rS0AobNKk.png" alt="" height="312"/>
 
 
 
@@ -299,7 +299,7 @@ file << duration.count() << "," << n << endl;
 В этом графе (n(n-1)/10) рёбер. По результату более миллиона итераций (output4.txt) был построен следующий график:
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/cOf2uHXiudSZl.png" alt="" height="313"/>
+<img src="graphics/cOf2uHXiudSZl.png" alt="" height="313"/>
 
 
 Видим, что основная масса точек ограничена графиком 5/2 x^3
@@ -311,7 +311,7 @@ file << duration.count() << "," << n << endl;
 В этом графе (n(n-1) * 7/20) рёбер. По результату нескольких десятков тысяч итераций (output5.txt) был построен следующий график:
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/4W9D6iRrxLSx8.png" alt="" height="303"/>
+<img src="graphics/4W9D6iRrxLSx8.png" alt="" height="303"/>
 
 
 
@@ -321,7 +321,7 @@ file << duration.count() << "," << n << endl;
 В этом графе (n(n-1) /2) рёбер. По результату нескольких десятков тысяч (output8.txt) был построен следующий график:
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/V6lDSNZCKgMbZ.png" alt="" height="325"/>
+<img src="graphics/V6lDSNZCKgMbZ.png" alt="" height="325"/>
 
 
 
