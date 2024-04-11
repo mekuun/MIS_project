@@ -117,9 +117,9 @@ maxSize = MaxNodeN * estimatedSetNodeSize + sizeof(Q);
 
 
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/JQSyhLM3aqdCJ.png" alt="" height="348"/>
+<img src="graphics/JQSyhLM3aqdCJ.png" alt="" height="348"/>
 
-<img src="/Users/mika/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/m3WFFYJCIyagD.png" alt="" height="341"/>
+<img src="graphics/m3WFFYJCIyagD.png" alt="" height="341"/>
 
 
 
